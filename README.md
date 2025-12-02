@@ -1,7 +1,9 @@
 산학협력 CCTV 관제 시스템 프로젝트 구현체(서버)<br>
 진행 연도 2025년 7~10월
 출간 논문 : 'CCTV 관제시스템의 인공지능을 활용한 데이터 다이어트 시스템 제안'(한국항행학회논문지, 2025, vol.29, no.5, pp. 621-626 (6 pages))
+
     https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003262551
+    
 컨퍼런스 논문 : 'AI 기반 데이터 마이닝 및 데이터 다이어트 VMS 시스템 제안'(컨퍼런스 논문.PDF)
 <br>
 <br>
