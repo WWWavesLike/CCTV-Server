@@ -1,0 +1,3 @@
+/home/waveslike/project/receiver/build/CMakeFiles/receiver.dir
+/home/waveslike/project/receiver/build/CMakeFiles/edit_cache.dir
+/home/waveslike/project/receiver/build/CMakeFiles/rebuild_cache.dir
